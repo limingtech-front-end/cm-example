@@ -1,0 +1,23 @@
+{
+  "name": "cm-example",
+  "version": "1.0.0",
+  "description": "An example component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limingtech-front-end/cm-example"
+  },
+  "keywords": [
+    "example",
+    "component"
+  ],
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/cm-example/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/cm-example#readme"
+}
